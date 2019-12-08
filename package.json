@@ -1,0 +1,21 @@
+{
+  "name": "ngx-mat-rpg-battle",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  },
+  "main": "bundles/ngx-mat-rpg-battle.umd.js",
+  "module": "fesm5/ngx-mat-rpg-battle.js",
+  "es2015": "fesm2015/ngx-mat-rpg-battle.js",
+  "esm5": "esm5/ngx-mat-rpg-battle.js",
+  "esm2015": "esm2015/ngx-mat-rpg-battle.js",
+  "fesm5": "fesm5/ngx-mat-rpg-battle.js",
+  "fesm2015": "fesm2015/ngx-mat-rpg-battle.js",
+  "typings": "ngx-mat-rpg-battle.d.ts",
+  "metadata": "ngx-mat-rpg-battle.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
